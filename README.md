@@ -1,1 +1,1 @@
-# SSW345
+The homework is plit into different parts. This repository contain the issue created with the to do list. Moreover the pdf file contains the rest of the required work including the eps files and completed git tutorial.
